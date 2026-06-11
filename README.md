@@ -1,1 +1,1 @@
-# youtube_automation
+# YT-automation

@@ -1,0 +1,6 @@
+# Local TTS via https://huggingface.co/hexgrad/Kokoro-82M — pip install -r requirements-kokoro.txt
+# Windows: also install espeak-ng MSI from https://github.com/espeak-ng/espeak-ng/releases (used by misaki for English)
+kokoro>=0.9.4
+soundfile
+numpy
+torch

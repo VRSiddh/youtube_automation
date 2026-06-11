@@ -1,0 +1,954 @@
+{
+  "scriptText": "am I the jerk for walking out of dinner after my girlfriend \"tested\" me? I (29M) have been dating my girlfriend (28F) for 8 months. She's really into social media and relationship \"tests,\" which I've always found kind of cringe but harmless. Last night we went out to dinner. Halfway through the meal, a woman came up to our table, flirted with me, and asked for my number. I immediately said no and told her I was there with my girlfriend. After the woman left, my girlfriend started laughing and told me it was her friend and she wanted to see how I'd react. She said I \"passed,\" so I shouldn't be mad. I was pissed. I told her that was humiliating and manipulative, and I don't want to be tested like I'm on some reality show. She said I was overreacting and that other guys would find it funny. I paid for my food, left, and went home. Now she says I embarrassed her and made a big deal out of nothing. am I the jerk for walking out? So... Am I the jerk here?",
+  "redditMeta": {
+    "subreddit": "AmITheJerk",
+    "title": "AITJ for walking out of dinner after my girlfriend “tested” me?",
+    "ups": 9000,
+    "permalink": "https://www.reddit.com/r/AmITheJerk/comments/1qzq4gk/aitj_for_walking_out_of_dinner_after_my/",
+    "author": "First_Dog4511",
+    "numComments": 1780
+  },
+  "wordTimestamps": [
+    {
+      "word": "am",
+      "startMs": 0,
+      "endMs": 132.08333333333334
+    },
+    {
+      "word": "I",
+      "startMs": 132.08333333333334,
+      "endMs": 198.125
+    },
+    {
+      "word": "the",
+      "startMs": 198.125,
+      "endMs": 396.25
+    },
+    {
+      "word": "jerk",
+      "startMs": 396.25,
+      "endMs": 660.4166666666666
+    },
+    {
+      "word": "for",
+      "startMs": 660.4166666666666,
+      "endMs": 858.5416666666666
+    },
+    {
+      "word": "walking",
+      "startMs": 858.5416666666666,
+      "endMs": 1320.8333333333333
+    },
+    {
+      "word": "out",
+      "startMs": 1320.8333333333333,
+      "endMs": 1518.9583333333335
+    },
+    {
+      "word": "of",
+      "startMs": 1518.9583333333335,
+      "endMs": 1651.0416666666667
+    },
+    {
+      "word": "dinner",
+      "startMs": 1651.0416666666667,
+      "endMs": 2047.2916666666667
+    },
+    {
+      "word": "after",
+      "startMs": 2047.2916666666667,
+      "endMs": 2377.5
+    },
+    {
+      "word": "my",
+      "startMs": 2377.5,
+      "endMs": 2509.5833333333335
+    },
+    {
+      "word": "girlfriend",
+      "startMs": 2509.5833333333335,
+      "endMs": 3170
+    },
+    {
+      "word": "\"tested\"",
+      "startMs": 3170,
+      "endMs": 3698.333333333333
+    },
+    {
+      "word": "me?",
+      "startMs": 3698.333333333333,
+      "endMs": 3896.4583333333335
+    },
+    {
+      "word": "I",
+      "startMs": 3896.4583333333335,
+      "endMs": 3962.5
+    },
+    {
+      "word": "(29M)",
+      "startMs": 3962.5,
+      "endMs": 4292.708333333334
+    },
+    {
+      "word": "have",
+      "startMs": 4292.708333333334,
+      "endMs": 4556.875
+    },
+    {
+      "word": "been",
+      "startMs": 4556.875,
+      "endMs": 4821.041666666666
+    },
+    {
+      "word": "dating",
+      "startMs": 4821.041666666666,
+      "endMs": 5217.291666666666
+    },
+    {
+      "word": "my",
+      "startMs": 5217.291666666666,
+      "endMs": 5349.374999999999
+    },
+    {
+      "word": "girlfriend",
+      "startMs": 5349.374999999999,
+      "endMs": 6009.791666666666
+    },
+    {
+      "word": "(28F)",
+      "startMs": 6009.791666666666,
+      "endMs": 6339.999999999999
+    },
+    {
+      "word": "for",
+      "startMs": 6339.999999999999,
+      "endMs": 6538.124999999999
+    },
+    {
+      "word": "8",
+      "startMs": 6538.124999999999,
+      "endMs": 6604.166666666666
+    },
+    {
+      "word": "months.",
+      "startMs": 6604.166666666666,
+      "endMs": 7066.458333333332
+    },
+    {
+      "word": "She's",
+      "startMs": 7066.458333333332,
+      "endMs": 7396.666666666666
+    },
+    {
+      "word": "really",
+      "startMs": 7396.666666666666,
+      "endMs": 7792.916666666666
+    },
+    {
+      "word": "into",
+      "startMs": 7792.916666666666,
+      "endMs": 8057.083333333333
+    },
+    {
+      "word": "social",
+      "startMs": 8057.083333333333,
+      "endMs": 8453.333333333334
+    },
+    {
+      "word": "media",
+      "startMs": 8453.333333333334,
+      "endMs": 8783.541666666666
+    },
+    {
+      "word": "and",
+      "startMs": 8783.541666666666,
+      "endMs": 8981.666666666666
+    },
+    {
+      "word": "relationship",
+      "startMs": 8981.666666666666,
+      "endMs": 9774.166666666666
+    },
+    {
+      "word": "\"tests,\"",
+      "startMs": 9774.166666666666,
+      "endMs": 10302.499999999998
+    },
+    {
+      "word": "which",
+      "startMs": 10302.499999999998,
+      "endMs": 10632.708333333332
+    },
+    {
+      "word": "I've",
+      "startMs": 10632.708333333332,
+      "endMs": 10896.874999999998
+    },
+    {
+      "word": "always",
+      "startMs": 10896.874999999998,
+      "endMs": 11293.124999999998
+    },
+    {
+      "word": "found",
+      "startMs": 11293.124999999998,
+      "endMs": 11623.333333333332
+    },
+    {
+      "word": "kind",
+      "startMs": 11623.333333333332,
+      "endMs": 11887.499999999998
+    },
+    {
+      "word": "of",
+      "startMs": 11887.499999999998,
+      "endMs": 12019.583333333332
+    },
+    {
+      "word": "cringe",
+      "startMs": 12019.583333333332,
+      "endMs": 12415.833333333332
+    },
+    {
+      "word": "but",
+      "startMs": 12415.833333333332,
+      "endMs": 12613.95833333333
+    },
+    {
+      "word": "harmless.",
+      "startMs": 12613.95833333333,
+      "endMs": 13208.33333333333
+    },
+    {
+      "word": "Last",
+      "startMs": 13208.33333333333,
+      "endMs": 13472.499999999996
+    },
+    {
+      "word": "night",
+      "startMs": 13472.499999999996,
+      "endMs": 13802.70833333333
+    },
+    {
+      "word": "we",
+      "startMs": 13802.70833333333,
+      "endMs": 13934.791666666664
+    },
+    {
+      "word": "went",
+      "startMs": 13934.791666666664,
+      "endMs": 14198.95833333333
+    },
+    {
+      "word": "out",
+      "startMs": 14198.95833333333,
+      "endMs": 14397.083333333328
+    },
+    {
+      "word": "to",
+      "startMs": 14397.083333333328,
+      "endMs": 14529.166666666662
+    },
+    {
+      "word": "dinner.",
+      "startMs": 14529.166666666662,
+      "endMs": 14991.45833333333
+    },
+    {
+      "word": "Halfway",
+      "startMs": 14991.45833333333,
+      "endMs": 15453.749999999998
+    },
+    {
+      "word": "through",
+      "startMs": 15453.749999999998,
+      "endMs": 15916.041666666664
+    },
+    {
+      "word": "the",
+      "startMs": 15916.041666666664,
+      "endMs": 16114.166666666666
+    },
+    {
+      "word": "meal,",
+      "startMs": 16114.166666666666,
+      "endMs": 16444.375
+    },
+    {
+      "word": "a",
+      "startMs": 16444.375,
+      "endMs": 16510.416666666668
+    },
+    {
+      "word": "woman",
+      "startMs": 16510.416666666668,
+      "endMs": 16840.625000000004
+    },
+    {
+      "word": "came",
+      "startMs": 16840.625000000004,
+      "endMs": 17104.79166666667
+    },
+    {
+      "word": "up",
+      "startMs": 17104.79166666667,
+      "endMs": 17236.875000000004
+    },
+    {
+      "word": "to",
+      "startMs": 17236.875000000004,
+      "endMs": 17368.95833333334
+    },
+    {
+      "word": "our",
+      "startMs": 17368.95833333334,
+      "endMs": 17567.08333333334
+    },
+    {
+      "word": "table,",
+      "startMs": 17567.08333333334,
+      "endMs": 17963.33333333334
+    },
+    {
+      "word": "flirted",
+      "startMs": 17963.33333333334,
+      "endMs": 18425.625000000004
+    },
+    {
+      "word": "with",
+      "startMs": 18425.625000000004,
+      "endMs": 18689.79166666667
+    },
+    {
+      "word": "me,",
+      "startMs": 18689.79166666667,
+      "endMs": 18887.91666666667
+    },
+    {
+      "word": "and",
+      "startMs": 18887.91666666667,
+      "endMs": 19086.041666666675
+    },
+    {
+      "word": "asked",
+      "startMs": 19086.041666666675,
+      "endMs": 19416.250000000007
+    },
+    {
+      "word": "for",
+      "startMs": 19416.250000000007,
+      "endMs": 19614.37500000001
+    },
+    {
+      "word": "my",
+      "startMs": 19614.37500000001,
+      "endMs": 19746.458333333343
+    },
+    {
+      "word": "number.",
+      "startMs": 19746.458333333343,
+      "endMs": 20208.750000000007
+    },
+    {
+      "word": "I",
+      "startMs": 20208.750000000007,
+      "endMs": 20274.791666666675
+    },
+    {
+      "word": "immediately",
+      "startMs": 20274.791666666675,
+      "endMs": 21001.25000000001
+    },
+    {
+      "word": "said",
+      "startMs": 21001.25000000001,
+      "endMs": 21265.41666666668
+    },
+    {
+      "word": "no",
+      "startMs": 21265.41666666668,
+      "endMs": 21397.50000000001
+    },
+    {
+      "word": "and",
+      "startMs": 21397.50000000001,
+      "endMs": 21595.62500000001
+    },
+    {
+      "word": "told",
+      "startMs": 21595.62500000001,
+      "endMs": 21859.79166666668
+    },
+    {
+      "word": "her",
+      "startMs": 21859.79166666668,
+      "endMs": 22057.916666666682
+    },
+    {
+      "word": "I",
+      "startMs": 22057.916666666682,
+      "endMs": 22123.95833333335
+    },
+    {
+      "word": "was",
+      "startMs": 22123.95833333335,
+      "endMs": 22322.08333333335
+    },
+    {
+      "word": "there",
+      "startMs": 22322.08333333335,
+      "endMs": 22652.291666666686
+    },
+    {
+      "word": "with",
+      "startMs": 22652.291666666686,
+      "endMs": 22916.458333333354
+    },
+    {
+      "word": "my",
+      "startMs": 22916.458333333354,
+      "endMs": 23048.541666666686
+    },
+    {
+      "word": "girlfriend.",
+      "startMs": 23048.541666666686,
+      "endMs": 23775.00000000002
+    },
+    {
+      "word": "After",
+      "startMs": 23775,
+      "endMs": 24075.251256281404
+    },
+    {
+      "word": "the",
+      "startMs": 24075.251256281404,
+      "endMs": 24255.40201005025
+    },
+    {
+      "word": "woman",
+      "startMs": 24255.40201005025,
+      "endMs": 24555.653266331658
+    },
+    {
+      "word": "left,",
+      "startMs": 24555.653266331658,
+      "endMs": 24855.904522613062
+    },
+    {
+      "word": "my",
+      "startMs": 24855.904522613062,
+      "endMs": 24976.005025125625
+    },
+    {
+      "word": "girlfriend",
+      "startMs": 24976.005025125625,
+      "endMs": 25576.50753768844
+    },
+    {
+      "word": "started",
+      "startMs": 25576.50753768844,
+      "endMs": 25996.859296482413
+    },
+    {
+      "word": "laughing",
+      "startMs": 25996.859296482413,
+      "endMs": 26477.261306532666
+    },
+    {
+      "word": "and",
+      "startMs": 26477.261306532666,
+      "endMs": 26657.41206030151
+    },
+    {
+      "word": "told",
+      "startMs": 26657.41206030151,
+      "endMs": 26897.613065326634
+    },
+    {
+      "word": "me",
+      "startMs": 26897.613065326634,
+      "endMs": 27017.713567839197
+    },
+    {
+      "word": "it",
+      "startMs": 27017.713567839197,
+      "endMs": 27137.814070351764
+    },
+    {
+      "word": "was",
+      "startMs": 27137.814070351764,
+      "endMs": 27317.96482412061
+    },
+    {
+      "word": "her",
+      "startMs": 27317.96482412061,
+      "endMs": 27498.115577889454
+    },
+    {
+      "word": "friend",
+      "startMs": 27498.115577889454,
+      "endMs": 27858.417085427143
+    },
+    {
+      "word": "and",
+      "startMs": 27858.417085427143,
+      "endMs": 28038.56783919599
+    },
+    {
+      "word": "she",
+      "startMs": 28038.56783919599,
+      "endMs": 28218.718592964833
+    },
+    {
+      "word": "wanted",
+      "startMs": 28218.718592964833,
+      "endMs": 28579.020100502523
+    },
+    {
+      "word": "to",
+      "startMs": 28579.020100502523,
+      "endMs": 28699.120603015086
+    },
+    {
+      "word": "see",
+      "startMs": 28699.120603015086,
+      "endMs": 28879.27135678393
+    },
+    {
+      "word": "how",
+      "startMs": 28879.27135678393,
+      "endMs": 29059.422110552776
+    },
+    {
+      "word": "I'd",
+      "startMs": 29059.422110552776,
+      "endMs": 29239.572864321624
+    },
+    {
+      "word": "react.",
+      "startMs": 29239.572864321624,
+      "endMs": 29599.87437185931
+    },
+    {
+      "word": "She",
+      "startMs": 29599.87437185931,
+      "endMs": 29780.025125628155
+    },
+    {
+      "word": "said",
+      "startMs": 29780.025125628155,
+      "endMs": 30020.226130653282
+    },
+    {
+      "word": "I",
+      "startMs": 30020.226130653282,
+      "endMs": 30080.276381909563
+    },
+    {
+      "word": "\"passed,\"",
+      "startMs": 30080.276381909563,
+      "endMs": 30620.728643216098
+    },
+    {
+      "word": "so",
+      "startMs": 30620.728643216098,
+      "endMs": 30740.82914572866
+    },
+    {
+      "word": "I",
+      "startMs": 30740.82914572866,
+      "endMs": 30800.879396984943
+    },
+    {
+      "word": "shouldn't",
+      "startMs": 30800.879396984943,
+      "endMs": 31341.331658291478
+    },
+    {
+      "word": "be",
+      "startMs": 31341.331658291478,
+      "endMs": 31461.43216080404
+    },
+    {
+      "word": "mad.",
+      "startMs": 31461.43216080404,
+      "endMs": 31701.633165829164
+    },
+    {
+      "word": "I",
+      "startMs": 31701.633165829164,
+      "endMs": 31761.683417085445
+    },
+    {
+      "word": "was",
+      "startMs": 31761.683417085445,
+      "endMs": 31941.834170854294
+    },
+    {
+      "word": "pissed.",
+      "startMs": 31941.834170854294,
+      "endMs": 32362.18592964826
+    },
+    {
+      "word": "I",
+      "startMs": 32362.18592964826,
+      "endMs": 32422.23618090454
+    },
+    {
+      "word": "told",
+      "startMs": 32422.23618090454,
+      "endMs": 32662.43718592967
+    },
+    {
+      "word": "her",
+      "startMs": 32662.43718592967,
+      "endMs": 32842.58793969851
+    },
+    {
+      "word": "that",
+      "startMs": 32842.58793969851,
+      "endMs": 33082.78894472364
+    },
+    {
+      "word": "was",
+      "startMs": 33082.78894472364,
+      "endMs": 33262.93969849248
+    },
+    {
+      "word": "humiliating",
+      "startMs": 33262.93969849248,
+      "endMs": 33923.49246231158
+    },
+    {
+      "word": "and",
+      "startMs": 33923.49246231158,
+      "endMs": 34103.64321608042
+    },
+    {
+      "word": "manipulative,",
+      "startMs": 34103.64321608042,
+      "endMs": 34884.296482412086
+    },
+    {
+      "word": "and",
+      "startMs": 34884.296482412086,
+      "endMs": 35064.447236180924
+    },
+    {
+      "word": "I",
+      "startMs": 35064.447236180924,
+      "endMs": 35124.497487437206
+    },
+    {
+      "word": "don't",
+      "startMs": 35124.497487437206,
+      "endMs": 35424.74874371861
+    },
+    {
+      "word": "want",
+      "startMs": 35424.74874371861,
+      "endMs": 35664.94974874374
+    },
+    {
+      "word": "to",
+      "startMs": 35664.94974874374,
+      "endMs": 35785.0502512563
+    },
+    {
+      "word": "be",
+      "startMs": 35785.0502512563,
+      "endMs": 35905.15075376887
+    },
+    {
+      "word": "tested",
+      "startMs": 35905.15075376887,
+      "endMs": 36265.45226130656
+    },
+    {
+      "word": "like",
+      "startMs": 36265.45226130656,
+      "endMs": 36505.65326633168
+    },
+    {
+      "word": "I'm",
+      "startMs": 36505.65326633168,
+      "endMs": 36685.80402010053
+    },
+    {
+      "word": "on",
+      "startMs": 36685.80402010053,
+      "endMs": 36805.90452261309
+    },
+    {
+      "word": "some",
+      "startMs": 36805.90452261309,
+      "endMs": 37046.10552763822
+    },
+    {
+      "word": "reality",
+      "startMs": 37046.10552763822,
+      "endMs": 37466.45728643219
+    },
+    {
+      "word": "show.",
+      "startMs": 37466.45728643219,
+      "endMs": 37766.7085427136
+    },
+    {
+      "word": "She",
+      "startMs": 37766.7085427136,
+      "endMs": 37946.859296482435
+    },
+    {
+      "word": "said",
+      "startMs": 37946.859296482435,
+      "endMs": 38187.06030150756
+    },
+    {
+      "word": "I",
+      "startMs": 38187.06030150756,
+      "endMs": 38247.11055276384
+    },
+    {
+      "word": "was",
+      "startMs": 38247.11055276384,
+      "endMs": 38427.26130653269
+    },
+    {
+      "word": "overreacting",
+      "startMs": 38427.26130653269,
+      "endMs": 39147.86432160806
+    },
+    {
+      "word": "and",
+      "startMs": 39147.86432160806,
+      "endMs": 39328.015075376905
+    },
+    {
+      "word": "that",
+      "startMs": 39328.015075376905,
+      "endMs": 39568.21608040203
+    },
+    {
+      "word": "other",
+      "startMs": 39568.21608040203,
+      "endMs": 39868.46733668344
+    },
+    {
+      "word": "guys",
+      "startMs": 39868.46733668344,
+      "endMs": 40108.668341708566
+    },
+    {
+      "word": "would",
+      "startMs": 40108.668341708566,
+      "endMs": 40408.919597989974
+    },
+    {
+      "word": "find",
+      "startMs": 40408.919597989974,
+      "endMs": 40649.1206030151
+    },
+    {
+      "word": "it",
+      "startMs": 40649.1206030151,
+      "endMs": 40769.221105527664
+    },
+    {
+      "word": "funny.",
+      "startMs": 40769.221105527664,
+      "endMs": 41129.522613065354
+    },
+    {
+      "word": "I",
+      "startMs": 41129.522613065354,
+      "endMs": 41189.572864321635
+    },
+    {
+      "word": "paid",
+      "startMs": 41189.572864321635,
+      "endMs": 41429.77386934676
+    },
+    {
+      "word": "for",
+      "startMs": 41429.77386934676,
+      "endMs": 41609.9246231156
+    },
+    {
+      "word": "my",
+      "startMs": 41609.9246231156,
+      "endMs": 41730.02512562817
+    },
+    {
+      "word": "food,",
+      "startMs": 41730.02512562817,
+      "endMs": 42030.27638190957
+    },
+    {
+      "word": "left,",
+      "startMs": 42030.27638190957,
+      "endMs": 42330.52763819098
+    },
+    {
+      "word": "and",
+      "startMs": 42330.52763819098,
+      "endMs": 42510.678391959824
+    },
+    {
+      "word": "went",
+      "startMs": 42510.678391959824,
+      "endMs": 42750.87939698495
+    },
+    {
+      "word": "home.",
+      "startMs": 42750.87939698495,
+      "endMs": 43051.13065326636
+    },
+    {
+      "word": "Now",
+      "startMs": 43051.13065326636,
+      "endMs": 43231.281407035196
+    },
+    {
+      "word": "she",
+      "startMs": 43231.281407035196,
+      "endMs": 43411.43216080404
+    },
+    {
+      "word": "says",
+      "startMs": 43411.43216080404,
+      "endMs": 43651.63316582917
+    },
+    {
+      "word": "I",
+      "startMs": 43651.63316582917,
+      "endMs": 43711.68341708545
+    },
+    {
+      "word": "embarrassed",
+      "startMs": 43711.68341708545,
+      "endMs": 44372.23618090455
+    },
+    {
+      "word": "her",
+      "startMs": 44372.23618090455,
+      "endMs": 44552.386934673385
+    },
+    {
+      "word": "and",
+      "startMs": 44552.386934673385,
+      "endMs": 44732.53768844223
+    },
+    {
+      "word": "made",
+      "startMs": 44732.53768844223,
+      "endMs": 44972.738693467356
+    },
+    {
+      "word": "a",
+      "startMs": 44972.738693467356,
+      "endMs": 45032.78894472364
+    },
+    {
+      "word": "big",
+      "startMs": 45032.78894472364,
+      "endMs": 45212.939698492475
+    },
+    {
+      "word": "deal",
+      "startMs": 45212.939698492475,
+      "endMs": 45453.1407035176
+    },
+    {
+      "word": "out",
+      "startMs": 45453.1407035176,
+      "endMs": 45633.29145728645
+    },
+    {
+      "word": "of",
+      "startMs": 45633.29145728645,
+      "endMs": 45753.39195979901
+    },
+    {
+      "word": "nothing.",
+      "startMs": 45753.39195979901,
+      "endMs": 46233.793969849256
+    },
+    {
+      "word": "am",
+      "startMs": 46233.793969849256,
+      "endMs": 46353.894472361826
+    },
+    {
+      "word": "I",
+      "startMs": 46353.894472361826,
+      "endMs": 46413.9447236181
+    },
+    {
+      "word": "the",
+      "startMs": 46413.9447236181,
+      "endMs": 46594.095477386945
+    },
+    {
+      "word": "jerk",
+      "startMs": 46594.095477386945,
+      "endMs": 46834.29648241207
+    },
+    {
+      "word": "for",
+      "startMs": 46834.29648241207,
+      "endMs": 47014.44723618092
+    },
+    {
+      "word": "walking",
+      "startMs": 47014.44723618092,
+      "endMs": 47434.79899497488
+    },
+    {
+      "word": "out?",
+      "startMs": 47434.79899497488,
+      "endMs": 47675.000000000015
+    },
+    {
+      "word": "So...",
+      "startMs": 47675,
+      "endMs": 48199.99999999999
+    },
+    {
+      "word": "Am",
+      "startMs": 48199.99999999999,
+      "endMs": 48410
+    },
+    {
+      "word": "I",
+      "startMs": 48410,
+      "endMs": 48514.99999999999
+    },
+    {
+      "word": "the",
+      "startMs": 48514.99999999999,
+      "endMs": 48829.99999999999
+    },
+    {
+      "word": "jerk",
+      "startMs": 48829.99999999999,
+      "endMs": 49249.99999999999
+    },
+    {
+      "word": "here?",
+      "startMs": 49249.99999999999,
+      "endMs": 49774.99999999999
+    }
+  ],
+  "voiceAudioSrc": "audio/voice.mp3",
+  "backgroundVideoSrc": "backgrounds/_bundle_bg.mp4",
+  "bedAudioSrc": "music/bed.mp3",
+  "tickAudioSrc": "sfx/tick.mp3",
+  "hasBed": false,
+  "hasTick": false,
+  "skipAudio": false,
+  "introPauseFrames": 23,
+  "narrationEndFrame": 1517,
+  "durationInFrames": 1697,
+  "themeSeed": 405776607
+}
